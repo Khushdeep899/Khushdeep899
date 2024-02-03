@@ -53,8 +53,7 @@ I'm always on the lookout for new collaborations, learning opportunities, and wa
 - 📞 **Phone:** 3068805959
 - 🔗 **LinkedIn:** [www.linkedin.com/in/khusdeep-singh]
 
-- Thank you for stopping by! Feel free to explore my repositories.
--  If you're interested in collaborating or just want to chat about technology and its potential to drive change, don't hesitate to reach out.
+- Thank you for stopping by! Feel free to explore my repositories. If you're interested in collaborating or just want to chat about technology and its potential to drive change, don't hesitate to reach out.
 
 
 
