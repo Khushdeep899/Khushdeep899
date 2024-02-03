@@ -3,8 +3,8 @@
 Welcome to my GitHub space! I'm a Computer Science student at the University of Saskatchewan, deeply passionate about technology, innovation, and creating impactful software solutions. With a knack for problem-solving and a continuous drive to learn, I am on a journey to make a difference through coding.
 
 ## 🚀 About Me
-- 📚 Pursuing a BSc in Computer Science, with a keen interest in software development, cybersecurity, and cloud computing.
-- 💡 I excel in turning ideas into reality through code, with a special interest in web development and automation.
+- 📚 Pursuing a BSc in Computer Science, with a keen interest in software development and cybersecurity.
+- 💡 I excel in turning ideas into reality through code, with a special interest in web development.
 - 🌍 Relocated from India to Saskatoon, embracing new challenges and opportunities with open arms.
 
 ## 🚀 Skills Summary
