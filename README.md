@@ -51,7 +51,10 @@ MVC architecture, Client-Server architecture, Automated Testing, Agile, Scrum, O
 I'm always on the lookout for new collaborations, learning opportunities, and ways to contribute to meaningful projects. Here's how you can reach me:
 - 📧 **Email:** [khusdeep1sandhu@gmail.com](mailto:khusdeep1sandhu@gmail.com)
 - 📞 **Phone:** 3068805959
-- 🔗 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/khusdeep-singh)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/khusdeep-singh]
+
+- Thank you for stopping by! Feel free to explore my repositories.
+-  If you're interested in collaborating or just want to chat about technology and its potential to drive change, don't hesitate to reach out.
 
 
 
