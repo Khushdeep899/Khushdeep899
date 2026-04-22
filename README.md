@@ -4,7 +4,7 @@ Computer Science graduate from the University of Saskatchewan with experience in
 
 ## 🔬 Featured Project
 
-### [Crop Health Classifier](https://github.com/Khushdeep899/crop-health-classifier) — [Live Demo](https://crophealthclass.vercel.app)
+### [Crop Health Classifier](https://github.com/Khushdeep899/crop-health-classifier) — [Live Demo](https://leaffhealth.vercel.app/#demo)
 A deep learning web app that identifies crop diseases from leaf images. Built with PyTorch transfer learning (MobileNetV2) trained on 54,000+ images, achieving 93%+ accuracy across 38 disease classes.
 
 **Stack:** PyTorch · FastAPI · React · Docker · AWS EC2 · GitHub Actions CI/CD
