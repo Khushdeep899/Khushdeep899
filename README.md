@@ -6,12 +6,12 @@ I build end to end: event-driven services on GCP, ML inference APIs, and modern 
 </p>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushdeep899&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushdeep899&layout=compact&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushdeep899&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushdeep899&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushdeep899&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushdeep899&hide_border=true&theme=tokyonight" />
 </div>
 
 ## 🔧 Featured Projects
