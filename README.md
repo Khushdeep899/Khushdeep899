@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Computer Science grad (University of Saskatchewan) and software developer, ~3 years in, about 2 of them writing Go backends at Vendasta.</b><br/><br/>
-I build end to end: event-driven services on GCP, ML inference APIs, and modern C++ that uses every core it can find. Partial to clean concurrency and benchmarks that don't lie.
+I build end to end : event-driven services on GCP, ML inference APIs, and modern C++ that uses every core it can find. Partial to clean concurrency and benchmarks that don't lie.
 </p>
 
 <div align="center">
